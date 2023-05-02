@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "postgres",
+    "password": "PostgreSQL",
+    "database": "pdfgpt",
+    "host": "localhost",
+    "dialect": "postgres"
+  },
+  "test": {
+    "username": "postgres",
+    "password": "PostgreSQL",
+    "database": "pdfgpt",
+    "host": "localhost",
+    "dialect": "postgres"
+  },
+  "production": {
+    "username": "postgres",
+    "password": "PostgreSQL",
+    "database": "pdfgpt",
+    "host": "localhost",
+    "dialect": "postgres"
+  }
+}
